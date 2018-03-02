@@ -16,6 +16,7 @@
 
 ### Tutorials
 - [Build A Chatbot](https://buildachatbot.io)
+- [Build bot for Slack and Telegram](https://blog.pusher.com/building-bot-using-botman-slack-telegram/)
 
 # Projects Using BotMan
 
@@ -25,3 +26,6 @@
 
 ### Open Source
 - [CiviCRM Botman integration](https://github.com/3sd/civicrm-chatbot) (WIP)
+- [DailyStoicBot](https://github.com/Giorat/DailyStoicBot)-Dialogflow and DB Cache
+- [Crptocompare](https://github.com/ammezie/cryptobot)-external API crypto
+- [Biblebot](https://github.com/HackNL/biblebot)-Dialogflow and external API
