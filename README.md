@@ -17,6 +17,16 @@
 ### Tutorials
 - [Build A Chatbot](https://buildachatbot.io)
 - [Build bot for Slack and Telegram](https://blog.pusher.com/building-bot-using-botman-slack-telegram/)
+- [Build Chatbots with PHP (book)](https://christoph-rumpel.com/build-chatbots-with-php)
+- [Build a newsletter chatbot in PHP - Part 1](https://christoph-rumpel.com/2018/02/build-a-newsletter-chatbot-in-php-part-1)
+- [The BotMan WebDriver explained](https://christoph-rumpel.com/2018/02/the-botman-webdriver-explained)
+- [BotMan Quicktip - How to debug Facebook webhook errors](https://christoph-rumpel.com/2017/09/botman-quick-tip-how-to-debug-facebook-webhook-errors)
+- [Build a Slack chatbot in Laravel with BotMan Studio 2.0](https://christoph-rumpel.com/2017/09/build-a-slack-chattbot-with-laravel-and-botman-studio)
+- [Build a Facebook Messenger chatbot in Laravel with BotMan Studio 2.0](https://christoph-rumpel.com/2017/09/build-a-facebook-chatbot-with-laravel-and-botman-studio)
+- [Build a Telegram chatbot in Laravel with BotMan Studio 2.0](https://christoph-rumpel.com/2017/09/build-a-telegram-chattbot-with-laravel-and-botman-studio)
+- [BotMan Quick Tip - How to repeat a question](https://christoph-rumpel.com/2017/02/botman-quick-tip-how-to-repeat-a-question)
+- [BotMan Quick Tip - How to use a default pattern](https://christoph-rumpel.com/2017/01/botman-quick-tip-how-to-use-a-default-pattern)
+
 
 # Projects Using BotMan
 
