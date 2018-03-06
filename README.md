@@ -26,6 +26,7 @@
 - [Build a Telegram chatbot in Laravel with BotMan Studio 2.0](https://christoph-rumpel.com/2017/09/build-a-telegram-chattbot-with-laravel-and-botman-studio)
 - [BotMan Quick Tip - How to repeat a question](https://christoph-rumpel.com/2017/02/botman-quick-tip-how-to-repeat-a-question)
 - [BotMan Quick Tip - How to use a default pattern](https://christoph-rumpel.com/2017/01/botman-quick-tip-how-to-use-a-default-pattern)
+- [Build A Telegram Bot with Laravel and BotMan](https://scotch.io/tutorials/build-a-telegram-bot-with-laravel-and-botman)
 
 
 # Projects Using BotMan
