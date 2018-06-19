@@ -35,9 +35,6 @@
 - [Vienna Insurance Group](https://www.wienerstaedtische.at)
 - [KlickMal.at](https://www.klickmal.at)
 
-### Telegram bots
-- [Crypto Price Bot](https://t.me/cryptobotman_bot)
-
 ### Open Source
 - [CiviCRM Botman integration](https://github.com/3sd/civicrm-chatbot) (WIP)
 - [DailyStoicBot](https://github.com/Giorat/DailyStoicBot)-Dialogflow and DB Cache
