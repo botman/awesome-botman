@@ -40,3 +40,5 @@
 - [DailyStoicBot](https://github.com/Giorat/DailyStoicBot)-Dialogflow and DB Cache
 - [Crptocompare](https://github.com/ammezie/cryptobot)-external API crypto
 - [Biblebot](https://github.com/HackNL/biblebot)-Dialogflow and external API
+- [GirocletaBot](https://github.com/Lloople/bot-girocleta)-Get info and reminders about Girona's City Bike System
+- [MrDebtsBot](https://github.com/Lloople/bot-mr-debts)-Track debts in a group of friends
