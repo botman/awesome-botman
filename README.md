@@ -42,3 +42,4 @@
 - [Biblebot](https://github.com/HackNL/biblebot)-Dialogflow and external API
 - [GirocletaBot](https://github.com/Lloople/bot-girocleta)-Get info and reminders about Girona's City Bike System
 - [MrDebtsBot](https://github.com/Lloople/bot-mr-debts)-Track debts in a group of friends
+- [MrDearBot](https://github.com/lloople/bot-mr-dear)-Interact with your [OhDear!](https://ohdear.app) account and receive notifications when something is wrong.
