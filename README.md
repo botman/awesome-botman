@@ -28,6 +28,21 @@
 - [BotMan Quick Tip - How to use a default pattern](https://christoph-rumpel.com/2017/01/botman-quick-tip-how-to-use-a-default-pattern)
 - [Build A Telegram Bot with Laravel and BotMan](https://scotch.io/tutorials/build-a-telegram-bot-with-laravel-and-botman)
 
+### 3rd-party drivers (alphabetically)
+- [ChatAPI @jjsquady](https://github.com/jjsquady/driver-chatapi)
+- [Discord @JABirchall](https://github.com/JABirchall/botman-driver-discord)
+- [Line @farrr](https://github.com/farrrr/driver-line)
+- [Line @gundamew](https://github.com/gundamew/botman-driver-line)
+- [Messagebird @aristotele](https://github.com/aristotele/botman-driver-messagebird)
+- [Rocket.Chat @sdegoeij](https://github.com/sdegoeij/driver-rocketchat)
+- [SmsGateway24 @hsul4n](https://github.com/hsul4n/botman-driver-smsgateway24)
+- [Ubisend @joedixon](https://github.com/joedixon/botman-driver-ubisend)
+- [Viber @TheArdent](https://github.com/TheArdent/botman-viber-driver)
+- [VK @iboldurev](https://github.com/iboldurev/botman-driver-vk)
+- [VK @oleghalin](https://github.com/oleghalin/botman-driver-vk)
+- [VK @sh-legacy](https://github.com/sh-legacy/botman-vk-driver)
+- [Waboxapp @dextervip](https://github.com/dextervip/botman-driver-waboxapp)
+- [Whatsmate @hsul4n](https://github.com/hsul4n/botman-driver-whatsmate)
 
 # Projects Using BotMan
 
